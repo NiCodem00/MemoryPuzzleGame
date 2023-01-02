@@ -1,0 +1,5 @@
+|Player6||!Hard!||@Standard@||#On#||%2%||&20&|
+|Player43||!Easy!||@Standard@||#On#||%2%||&15&|
+|Player655||!Hard!||@Standard@||#On#||%2%||&20&|
+|Player01||!Easy!||@Standard@||#On#||%2%||&12&|
+|Player47||!Easy!||@Standard@||#On#||%2%||&12&|

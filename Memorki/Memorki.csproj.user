@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Data.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Plain24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Plain48.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Plain96.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PlainSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ranking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ustawienia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WinFormcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
